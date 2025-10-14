@@ -1,5 +1,8 @@
 ## Hi there, I'm Henokh Ivander Sitorus 👋
 
+I'm 12th-grade Network Information Systems and Applications (SIJA) 1 student. I am the eldest of two children. I am very interested in becoming a developer because I want to gain experience in programming. I started entering the world of programming since I was in 3rd grade of junior high school when I participated in a bootcamp from Cody's App Academy representing my school.
+
+I hope we will work together
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/henokhivndr_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Henokh Ivander Sitorus) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nokh.js) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:henokhsitorus7@gmail.com) 
