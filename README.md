@@ -5,7 +5,7 @@ I'm 12th-grade Network Information Systems and Applications (SIJA) 1 student. I 
 I hope we will work together
 
 # 💫 About Me:
-🔭 I’m student at SMKN 26 Jakarta<br>🌱 I’m currently learning PHP, React, and Laravel<br>💬 Ask me about me<br>⚡ I'm IT Club Website Development mentor at SMKN 26 Jakarta, <br>      Former Second treasurer of Rohkris SMKN 26 Jakarta, and<br>      Vice Corps Commander of Tenor Military Band
+🔭 I’m student at SMKN 26 Jakarta<br>🌱 I’m currently learning PHP, React, and Laravel<br>💬 Ask me about me<br>⚡ I'm IT Club Website Development mentor at SMKN 26 Jakarta, <br>      ⚡ Former Second treasurer of Rohkris SMKN 26 Jakarta, and<br>⚡ Vice Corps Commander of Tenor Military Band SMKN 26 Jakarta
 
 
 ## 🌐 Socials:
